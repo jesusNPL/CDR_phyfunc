@@ -101,57 +101,43 @@ hierarchy.info <- traits_pvrs %>%
 
 GapFilling(X = traits.info, 
            hierarchy.info = hierarchy.info, 
-           num.samples = 10000, burn = 2000, 
-           tuning = TRUE, verbose = TRUE, 
+           num.samples = 10000, 
+           burn = 2000, 
+           tuning = TRUE, 
+           verbose = TRUE, 
            tmp.dir = "CDR_traits/BHPMF_imputation/", 
            mean.gap.filled.output.path = "CDR_traits/BHPMF_imputation/CDR_mean_gap_filled_BHPMF.csv",
            std.gap.filled.output.path = "CDR_traits/BHPMF_imputation/CDR_std_gap_filled_BHPMF.csv")
 
-#RRMSE for the test data:  1.205673$min.rmse
-#[1] 1.370784
+#RMSE for the test data:  0.3771762$min.rmse
+#[1] 0.3674098
 
 #$best.number.latent.features
-#[1] 20
+#[1] 25
 
+## Combine results with hierarchical information
+
+bhpmf_mean <- read.csv("CDR_traits/BHPMF_imputation/CDR_mean_gap_filled_BHPMF.csv", sep = "\t")
+bhpmf_std <- read.csv("CDR_traits/BHPMF_imputation/CDR_std_gap_filled_BHPMF.csv", sep = "\t")
+
+bhpmf_mean <- cbind(hierarchy.info, bhpmf_mean)
+bhpmf_std <- cbind(hierarchy.info, bhpmf_std)
+
+write_csv(bhpmf_mean, "CDR_phyfunc/traits/CDR_mean_gap_filled_BHPMF.csv")
+write_csv(bhpmf_std, "CDR_phyfunc/traits/CDR_std_gap_filled_BHPMF.csv")
 
 ##########################################
 # Usage 4: Calculate cross validation RMSE
 ##########################################
-# Calculate average RMSE with the default values 
-traitNames <- colnames(traits.info)
-
-for(i in 1:length(traitNames)) { 
-  
-  print(paste0("Running CV for ", traitNames[i]), " please, be patient!")
-  
-  dir.create(paste0("CDR_traits/BHPMF_imputation/CV/CV_", traitNames[i]))
-  
-  out <- CalculateCvRmse(as.matrix(traits.info[, i]), 
-                          hierarchy.info, 
-                          #tuning = TRUE, 
-                          num.latent.feats = 20, 
-                          tmp.dir = paste0("CDR_traits/BHPMF_imputation/CV/CV_", traitNames[i]), 
-                          num.samples = 1000, 
-                          burn = 200, 
-                          verbose = TRUE)
-  
-  #avg.rmse <- out1$avg.rmse
-  #std.rmse <- out1$std.rmse
-  
-  save(out, file = paste0("CDR_traits/BHPMF_imputation/CV/", traitNames[i], "_cv.RData"))
-
-}
 
 ## Global CV
 out3 <- CalculateCvRmse(traits.info, 
                         hierarchy.info, 
                         #tuning = TRUE, 
-                        num.latent.feats = 20,
+                        num.latent.feats = 25,
                         tmp.dir = "CDR_traits/BHPMF_imputation/CV/", 
                         num.samples = 10000, 
                         burn = 2000, 
                         verbose = TRUE)
-
-out3
 
 save(out3, file = "CDR_traits/BHPMF_imputation/CV/CV_RMSE_global.RData")
