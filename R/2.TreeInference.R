@@ -14,7 +14,7 @@ exec <- "/raxmlHPC.exe"
 tree.raxml(folder = '2.Alignments', 
            FilePatterns = 'Masked_', 
            raxml_exec = 'raxmlHPC', 
-           Bootstrap = 10, 
+           Bootstrap = 100, 
            outgroup = "Ginkgo_biloba", 
            partitioned = FALSE)
 
