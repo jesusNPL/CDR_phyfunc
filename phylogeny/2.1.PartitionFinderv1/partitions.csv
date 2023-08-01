@@ -1,0 +1,6 @@
+"","type","locus","begin","end"
+"1","DNA","Masked_atpB.fasta",1,1490
+"2","DNA","Masked_matK.fasta",1491,2546
+"3","DNA","Masked_ndhF.fasta",2547,4264
+"4","DNA","Masked_rbcL.fasta",4265,4959
+"5","DNA","Masked_trnL.fasta",4960,5515
