@@ -1978,14 +1978,14 @@ ttaaaatcgt gagg
 >MG709393 Lepidium virginicum
 cgaaatcggt agacgctacg gacttaattg gattgagcct tggtatggaa acctactaag
 tgataacttt caaattcaga gaaaccctgg aattaacaat gggcaatcct gagccaaatc
-ctggtttacg cgaacaaacc ggagtttaca aagcgagaaa aaagggatag gtgcagagac
-tcaatggaag ctgttctaac aaatggagtt cactaccttg tgttgataaa ggaatccttc
-gatcgaaact tcaaatcaaa agggatgaag gataaaaacc tatattgtat aaatttaggt
-aacacaaaat gatctcaaaa atgacgacct gaatctcgat ttcttttttt tttataaaca
-aaatcgaaat gttgtgaatc aattcgaagt ttaagaaata atatttattg atcaaatgat
-tcacttcata gtctgataga tccttgatgg aacttattaa tcggacgaga ataaagatag
-agtcccattt tacatgtcaa tactgacaac aatgaaattt atagtaagat gaaaatccgt
-tgacttttaa aatcgtgagg gttcaagtcc ctctatcccc
+ctggtttacg cgaacaaacc ggagtttaga aaacgagaaa aaagggatag gtgcagagac
+tcaatggaag ctgttctaac aaatggagtt cactaccttg tgttgatatt gtgttgataa
+aggaatcctt cgatcgaaac ttcaaatcaa aaaggatgaa ggagaaaaac ctatatttag
+acaatatagg taacacaaaa gatctcaaaa atgacgacct gaatctcgat ttctattttt
+ttataaacaa aataggaatg ttgtgaatca attcgaagtt taagaaaaaa tcaactattc
+agtgatcaaa tgattcactt catagtctga tagatccttg gtggaactta ttaatcggac
+gagaataaag atagagtccc attttacatg tcaatactga caacaatgaa atttatagta
+agatgaaaat ccgttgactt ttaaaatcgt gagggttcaa gtccctctat cccc
 >FJ409472 Lespedeza capitata
 aacccgggaa taccaacaat gggccaatcc tgagcccaaa tcctgttttt ccgtaaacaa
 agaaagaaac agaaagttag aatcaaaaag gataggttga caaagactca attggaagac
@@ -2377,15 +2377,15 @@ taaaaggaaa atccgtcgac tttataagtc gtgag
 >MG709458 Dichanthelium acuminatum
 cgaaatcggt agacgctacg gacttgattg tattgagcct tggtatggaa acctgctaag
 tggtaacttc caaattcaga gaaaccctgg aatgaaaaat gggcaatcct gagccaaatc
-ccttttttga aaaaacaagc ggttttcaaa ctagaaccca aaggaaaagg ataggtgcag
+ccttttttga aaaaacaagt ggttctcaaa ctagaaccca aaggaaaagg ataggtgcag
 agactcaatg gaagctgttc taacgaatcg aagtaattac gttgtgttgg tagtggaact
-ccctcaaaat tagaaaaaga agggctttat acatctaata cgtatagata ctgacatagc
-aaacgattaa tcacaaaacc catatcataa tataggttct ttattttatt tttcaaaatg
-aaattaggaa tgattatgaa atagaaaatt ctgaattttt ttagaattat tgtgaatcca
-ttccaatcga atattgagta atcaaatcct tcaattcatt attttcgaga tctttaaaaa
-agtggattaa tcgaacgagg ataaagagag agtcccattc tacatgtcaa tactgacaac
-aatgaaattt ctagtaaaag gaaaatccgt cgactttata agtcgtgagg gttcaagtcc
-ctctatcccc
+cccttgaaat tagagaaaga agggctttat acatctaata cgcacgtata gatactgaca
+tagcaaacga ttaatcacag aacccatatc ataatatagg ttctttattt tattttttag
+aatgaaatta ggaatgatta tgaaatggaa aattctgaat ttttttagaa ttattgtgaa
+tccattccaa tcgaatattg agtaatcaaa tccttcaatt cattgttttg agatctttaa
+aaaagtggat taatcgaacg aggataaaga gagagtccca ttctacatgt caatactgac
+aacaatgaaa tttctagtaa aaggaaaatc cgtcgacttt ataagtcgtg agggttcaag
+tccctctatc ccc
 >AY142738 Panicum miliaceum
 ggacttgata tgtattgagc cttggtatgg aaacctgcta agtggtaact tccaaattca
 gagaaaccct ggaatgaaaa atgggcaatc ctgagccaaa tccctttttt gaaaaaacaa
@@ -2410,17 +2410,17 @@ aaaagtggat taatcgaacg aggataaaga gagagtccca ttctacatgt caatactgac
 aacaatgaaa tttctagtaa aaggaaaatc cgtcgacttt ataagtcgtg agggttcaag
 tccctctatc ccc
 >MG709428 Panicum virgatum
-cgaaatcggt agacgctacg gacttgattg tattgagcct tggtatggaa acctgctaag
-tggtaacttc caaattcaga gaaaccctgg aatgaaaaat gggcaatcct gagccaaatc
-ccttttttga aaaacaagtg gttctcaaac tagaacccaa aggaaaagga taggtgcaga
-gactcaatgg aagctgttct aacgaatcga ggtgtaatta cgttgtgttg gtagtgaaac
-tccctctaaa ttactaaatt agagaaagaa gggctttata catctaatac acacgtatat
-atactgacat agcaaacgat taatcacaga acccatacga taatataggt tctttattta
-ttttttataa tgaaattagg aatgattatg aaatagaaaa ttcataattt tttgagaatt
-ataattattg tgaatctatt ccactcgaat attgagtaat caaatccttc aattcattgt
-ttttgagata tttttaaaat aggattaatc ggacgaggat aaagagagag tcccattcta
-catgtcaata ctgacaacaa tgaaatttct agtaaaagga aaatccgtcg actttataag
-tcgtgagggt tcaagtccct ctatcccc
+cgaaatcggt agacgctacg gacttgattg tattgagcct tggtacggaa acctgctaag
+tgataacttc caaattcaga gaaaccctgg aatgaaaaat gggcaatcct gagccaaatc
+ccttttttga aaaaacaagt ggttctcaaa ctagaaccca aaggaaaagg ataggtgcag
+agactcaatg gaagctgttc taacgaatcg aagtaattac gttgtgttgg taatggaact
+ccctcgaaat tatagaaaga agggctttat acatctaata cacacgtata gatactcaga
+tagcaaacga ttaatcatag aacccatatc ataatatagg ttctttattt tattttttag
+aatgaaatta ggaatgatta tgaaatataa aattctgaat tttttttaga attattgtga
+atccattcca atcgaatatt gagtaatcaa atccttcaat tcattgtttt gagatcttca
+aaaaagtgga ttaatcgaac gaggataaag agagagtccc attctacatg tcaatactga
+caacaatgaa atttatagta aaaggaaaat ccgtcgactt tataagtcgt gagggttcaa
+gtccctctat cccc
 >DQ179375 Parietaria pensylvanica
 gaggcgatca taagacagar aggataggag cagagactca atggaagttg ttctaacaaa
 tggagttggc tactttgcgt tagtaaatta gtaaaggaat ccttacatcg aaactccaga
@@ -4263,3 +4263,324 @@ tttcaatcgt taacagtcct tctcataaat ggttactttc tgatggaaaa tcagaatcat
 tttcaaaact gtgaaaatcc ctcttttttg gtcccttcag ttgacacaag ttcaggtcct
 acgttaggat gacgcacagg aaagagccgg gatagctcag ttggtagagc agaggactga
 aaatcctcgt gtcaccagtt caaat
+>LC315111 Amphicarpaea bracteata
+cgctacggac ttaattggat tgagtcttgg tatggaaact taccaagtga gaactttcaa
+attcagagaa accctggaat tcacaatggg caatcctgag ccaaatcccg ttttccgaaa
+acaaagaaaa gttcagaaag ttataataaa aaagggatag gtgcagagac tcaatggaag
+ctgttctaac aaatggagtt gacgattttt tctttttgca ttaggaaaag aatccttcca
+tcaaaattcc aggaatggat caaagataaa catatatatt gaaatactat ttcaattgat
+taatcaagat ccatttgtaa taaaaatatt cacaaatgaa agatgtgaat caaatcaatt
+ccaaattgaa gaaaagatgg aatattcttt gatcaaatta ttcactccat cataatctga
+tagatccctt gaagaattga tcaatcaaat gagaataaag atagagtcct attctacatg
+tcaataccga caacaatgaa atttatagta agaggaaaat ccgtcgactt aagaaatcgt
+gagggttcaa gtccctctat ccccaaaagg tctgtttaac tttttaattt ttttcccata
+ccctctctat aagtcgttat ttatgtgttt tattcatttt atattcagtt tattctttac
+acaactaaat tggaattttt ctttttattt tcaataattt attatgataa ttacaagtca
+caagttttga aatagatatg tgaaacacag agaatttttt ttatgataaa ggtacaaatg
+aatcaattat ttttgagcaa ggaattctca tatgcgtgat taataaaaca atacaaaata
+attactacta ctgaaactaa cttacaaact tttctttttc gtcttttttt ttgacttagg
+tgatatagat tcattgacat atattccagt aatcttttaa aataaaaatg agtcttatgc
+gtcaagaatg gtcgggatag ctcagttggt agagcaaagg actgaaaatc ctcgtgt
+>AY116263 Andropogon gerardii
+ttccaaattc agagaaacct ggaatgaaaa atgggcaatc ctgagccaaa tccctttttt
+aaaaaacaag cggttctcaa actagaaccc aaaggaaaag gataggtgca gagactcaat
+ggaagctgtt ctaacgaatc gaagtaataa cgattaatca cagaacccat attataatat
+aggttcttta ttttattttt agaatgaaat taggaaggat tatgaaatag aaaattcata
+atttttttag aattattgtg aatctattcc aatcgaatat tgagtaatca aatccttcaa
+ttcattgttt tcgagatctt ttaaaaagtg gattaatcgg acgaggataa agagagagtc
+ccattctaca tgtcaatact gacaacaatg aaatttctag taaaaggaaa atccgtcgac
+tttataagtc gtgagggttc aagtccctct atccccaaac cctcttttat tccctaacca
+tagttgttat cctttttttc ttttatcaat gggtttaaga ttcactagat ttctcattct
+actctttcac aaagggtgcg acaagactca atgaatctta tgctattcat taaatagatg
+atttcttttt tatttctttt ttttcttttt tttatttatt agagtagagt atcggaaagg
+aatctcgatt attaattcga tttttttaag tattattaag taagccatcc acaatgcata
+ggactacccc tccccatttc ctaattttga atggaatact ttattgattt tttagtccct
+ttaattgaca tagatgcaaa tactttacta agatgatgca c
+>KF736812 Artemisia campestris
+gagccttggt atggaaactt actaagtgat aactttcaaa ttcagagaaa ccctggaatt
+aagaaaaatg ggcaatcctg agccaaatca cgttttccga aaacaaacaa aggttcagaa
+agcgaaaaga aaaaaaagat aggtgcagag actcgatgga agctgttcta acgaatagag
+ttgattgtct tacattggta gaggaatcct tctatcgaaa cttcagaaaa gatgaaggat
+aaacctgtat acataataca gaattgaaga aagaatcaat caatcaaata ttcattgatc
+aaagattcac tccataatct gatagatctt ttgaagaact gattaatcgg acgagaataa
+agatagagtc ccgttctaca tgtcaatact ggcaacaatg aaatttatag taataggaaa
+atccgtcgat ttcaaaaatc atgagggttc aagtccctct atccccaaaa agaccgtttg
+actccctaat tctttattgt atccttttga tttatcttgt ttttcgttag cggttcaaaa
+ttccttatct ttcccattca ctactcttta tacaattata caaaaggatc tgagcagaaa
+agctgttctc ttatcacatc acacgggata tatatgatac atgtacaaat gaacatcttt
+gagcaaggaa tccccgtgtg aatgattcac gatcgagatt tttattcata ctgaagttat
+tcttttgcca aattatagga cctggatgag gctttgtaat accctttcaa ttgacataga
+cccacgttgt ctagtaaaat gaaaatgagg atgcgacatc aggaatagtt gggatagctc
+a
+>JF791682 Bouteloua hirsuta
+ttacataact gaaatagtgt aacaaataga attatatata gcaaatctgt aaaatggcag
+attttaatta ttaatcttag ttattaacta gttcaaaaat tgaaattcta cttagagatg
+agaaaaaaaa gaatgaatat caagcgttat agtatgattt tgaatattct aaaaaagtaa
+gtaagggtgt gggggagata aaaacttttg gatatattga ttccgattga attgcaaata
+tatcaacggt agaatcaatt ctgaattgca ataagcgggg tcttttgaat agagatgagc
+tgatagacta cgtcgaataa tgaattcaat gattcaaaaa aaaactaaga gatataggaa
+attgaacaag gaatccaggt ttcaaagaaa aaaaggacaa tggggatatg gcgaaatcgg
+tagacgctac ggacttgatt gtattgagcc ttggtatgga aacctgctaa gtgttaactt
+ccaaattcag agaaaccctg gaatgaaaaa tgggcaatcc tgagccaaat cccttttttt
+gaaaaaacaa gcggttctca aactagaacc caaaggaaaa ggataggtgc agagactcaa
+tggaagctgt tctaacgaat cgaggtgtaa ttacgttgtg ttggtagtga aactccctct
+acattactaa attagagaaa gaggggcttt atacatctaa tacacacgta tagatactga
+catagcaaag gattaatcac agaacccata ccataatata gattctttct tttttttttt
+agaatgaaat taggaatgat tatgaaatag aaaattagaa aattccgaat ttttttagaa
+ttattgtgaa tccattctac tcgaatattg agtaatcaaa tccttccatt ttgaaatcta
+ttaaaaatag gattaatcag acgaggataa agagagagtc ccattctaca tgtcaatgct
+gacaacaatg aaatttctag taaaaagaaa atccgtcgac tttataagtc gtgagggttc
+aagtccctct atccccaaac cctcctttat tccctaacca tagtatttat catttatcct
+cttttctttt ttatcaatgg gttcaagatt cattagcttt ctcattctac tctttcacaa
+aggagtgcaa agaaaacgca atagatctta tgctattcat taaatggatt tcttttttat
+tatggatttc ttttttatta gagtatccgc aaagaatctc aattattcta taaatttata
+taagtattat taagtaagcc atccacaatg gataggacta tccccccctc atttccaaat
+ttggaatgga atactttatt gattttttag tccctttaat tgacatagat gcaaatactc
+tactaggatg atgcacaaga aaagg
+>MN314901 Cirsium altissimum
+cctgagccaa atcacgtttt ccgaaaacaa aggttcagaa agcgaaaatc aaaaaggata
+ggtgcagaga ctcgatggaa gctgttctaa cgaatggagt tgattgtctt acgttggtag
+aggaatcctt ctattgaaac ttcataaaag atgaaggata aacctgtata cataatatag
+aagaattgtt gtgaatcgat tccatattga agaaagaatc gaatattcat tgatcaaaca
+attcactcca taatctgata gatcttttga agaactgatt aatcggacga gaataaagat
+agagtcccgt tctacatgtc aataccggca acaatgaaat ttatagtaag aggaaaatcc
+gtcgatttaa aaaatcgtga gggttcaagt ccctctatcc ccaaaaagac catttgactc
+cctaattatt tctcgtatcc ttttgattta ttttatcctt ttttccttag cggttcaaaa
+ttccttatct tttctttctc attcactact ctttatacaa atggatctga gcggaaatgc
+tgttctctta tcacatatga tatatatgat acatgtacaa atgaacatct ttgagcaagg
+aatccccatt tgaatgattc acgatcgata tttttattca tactgaaact tacaaagttg
+ttcttttgac aaattatagg acctggatga ggctttgtaa taccctttca att
+>KP175172 Erigeron philadelphicus
+attggattga gccttggtat ggaaacttac taagtgataa ctttcaaatt cagagaaacc
+ctggaattaa taaaaatggg caatcctgag ccaaatcacg ttttccgaaa acaagcaaag
+gttcagaaag cgaaaataaa aaaggatagg tgcagagact cgatggaagc tattctaacg
+aatggagtta attgtataca ttggtatagg aatccttcta tccaaacttc agaaaagtga
+aggataagcc tgtattaatt gatcaaacca ttcactccat aatctgatag atcttttgaa
+gaactgatta atcggacgag aataaagata gagtcccgtt ctacatgcca atactggcaa
+caatgaaatt tatagtaaga ggaaaatccg tcgatttcaa aaatcatgag ggttcaagtc
+cctctatccc caaaaagacc atttgatttc ctaattcttt acaattcttt atcatatcct
+ttttatttat cctttttcgt tagtggttca aaactcttta tctttctcat tcacttttat
+acaaagggat ctgagcgaaa aagctgttct cttatcacat gtcacattat atatgatgat
+gatacataca tgtacaaatg aacatctttg agcaaggaat ccccgtttga atgattcatg
+atcgagattt ttattcatac tgaaacttac aaagttgttc tttttttgtg acaaattata
+ggaactggat gaggctttgt aatacccttt caattgacat agacccgcgt tctctagtaa
+aatgaaatga ggatgagaca tcgggaatag ttgggatagc tcag
+>KX668043 Galium aparine
+gacttaattg gattgggcct tggtatggaa acctgctgag tgagaacttt caaattcaga
+gaaaccctgg aattaataaa aaggggcaat cctgagccaa atcctatttt ccgaaaacaa
+agtgaaaggg gggataggtg cagagactca atggaagctg ttctaacaaa tggagttggc
+tgcgttagtc gagaattctt tctatcaaaa attcagaaaa tacaagtagt taagtgaagg
+ataaacgtat aacgtatata ctatccatac gtagtgaata gtctattaaa tgagtaatga
+cagccctaat gaatctatac tttttcatag aaaaaatata gaattgtaat tgttgttaaa
+atattccacg tttaagaaag aattgaatat tcatttatca aatgattcac tccatagtct
+gatagatctt tttacgaact gattaatcgg acaagaataa agatagagtc ccattctaca
+tgtcaatgcc ggcaacaatg aaatttatag ttaagaggaa aatccgtcga cttttaaaat
+cgtgagg
+>OR571801 Galium boreale
+cctgctgagt gagaactttc aaattcagag aaaccctgga attaataaaa aggggcaatc
+ctgagccaaa tcctattttt cgaaaacaaa ggtttagaaa gtgaaaaagg ggataggtgc
+agagactcaa tggaagctgt tctaacaaat ggagttcgct gtgttagtcg agaattcttt
+ccatcaaaaa ctcagaaaat acaagtagta agtattaagt gaaggataaa cgtatatact
+atccatacgt agtgaatagt atattatata ttaaattatt aaatgagtaa tgacagcccc
+aatgaatcta tactttttca tagaaaaaat atagaattgt aattgttgtt aaaatattcc
+acgtttaaga aagaatcgaa tattcattta tcaaatgatt cactccatag tctgatagat
+ctttttacga actgattaat cggacgagaa taaagataga gtcc
+>KF288060 Hackelia virginiana
+gctacggact taattggatt gagccttggt atggaaacct actaagtgac aactttcaaa
+ttcagagaaa ccccggaatt aataaaaatg ggcaatcctg agccaaatcc ggttttccga
+aaacaaacaa aagttgaaaa agaaaaaagg ataggtgcag agactcaatg gaagctgttc
+taacaaatgg agttgactgc tttggtcgaa gaatctttct cataaagtgt gaaagtatat
+acatttgtat tgaatacttt atcaaataaa atgattaatg actaatatat tctgttttta
+tgaaaaaata agagttggtg ttattccaca tagaagatcg aatattcatt gatcaaatca
+ttcactccat agtctgatag atcttttgaa gaattgatta atcggacgag aataaagata
+gagtcccgtt ctacatgtca ataccggcaa caatgaaatt tatagtaaga ggaaaatccg
+tcgactttaa aatcgtgagg gttcaagtcc ctctatcccc aaaagcctat ttgacatccc
+aacgatttct cctatatcca ttttagttag tggttccaaa ttcctcgtct ttctcattca
+ctctattgtt ttacaaacgg atctgactgg aaacgccttt catcttacac aagtcttgtg
+agatacgtag aacaaggaat ccccttttta atttgactga aacttacaaa gtcgtcttat
+tgaagatcca agaaattaca gtacctggat agaagttggt aatcttcttt catactttta
+attgacatag accccagtca tataataaaa taaggatgat ac
+>EU489329 Hesperostipa spartea
+atcataatat aggttcttta ttctttttta gaatgaaatt aggaatgatt atgaaataaa
+aaattcataa tttttttcga attattgtga attcattcca atcgaatatt gagtaatcaa
+atctttcaat tcatagtttt cgagatcttt taaaaagtgg attaatcgga cgaggacaaa
+gagagagtcc cattctacat gtcaatactg gcaacaatga aatttctagt aaaaggaaaa
+tccgtcgact ttataagttg tgagggttca agtccctcta tccccaaacc ctcttttatt
+ccctaagtag agtatttatc ctcttttttt ctttttatca atgggtttaa gattcattag
+ctttctcatt ctactctttc acaaaggagt gcgaagagaa ctcaatggat cttatcctat
+tcattgaata gatttctttt ttattagagt atcggcaagg aatctcggtt attaactcga
+tttttaagta ttattaagta agccatgcac aatgcatagg actacccccc cccattttca
+aatttggaat ttgaaatact ttaattgatt ttttagtccc tttaattgac at
+>MK804976 Koeleria pyramidata
+cgtacttcat tgtcaaaaaa gcgtattcgt aaaaatattt ggaagaaaaa aacttatttt
+tccatagtac actcttattc tttagcaaaa tcaagatcat tttccagcgg gaatgaacat
+ccaaaaccaa agggtttttc ggggcaacaa caacaaacaa ataataagta ataaggtttt
+ggaataatct gaattgacct atcaaaaaat tattccaatt acttaaatat gaataatttc
+gattaattaa ttaatgtact tttatgtgtt ggattacttg gtagaatatt gctagaacaa
+acccctctga tatatagaat aaaagttttg gtatactgtg tgctaagtat tcttttgcta
+ttaatgatcc atgagttttt cataatagaa ttctcatatt ttattatgag aattctatta
+tgaaaagtag agtattcttg caataggact taccacttcc attttatcca aaatcattgg
+tttaatgtta ttaataggag cataaagact ttgattctat caatttttcc ttttattgaa
+agaattttca aaatttaagg gagaaactaa ttataaaaaa aaggagttcc tactctttca
+agcagtcttt ctattaggca cagcaagagt ttattgtaaa aaaaatcgca acgatactac
+caaatgaagt ctattttaat gaagactcta atgttcctaa attttataga ctttcccacc
+aatctcgacg actcgcgaga taatagctat tattctttta agttacccat tatttgaagt
+tagccgccat ggtgaaattg gtagacacgc tgctct
+>OR571818 Melilotus albus
+ctttcaaatt cagagaaacc ctggaattaa aaatgggcaa tcctgagcca aatccttctt
+tccgaaaaca aaaaaataaa agttcagaaa aaaaaaggat aggtgcagag actcaatgga
+agttgttcta acaacgagaa taaagataga gtcccattct acatgtcaat accgacatca
+atgaaatttt tagtaagagg aaaatccgtc gactttagaa atcgtgaggg ttca
+>DQ311713 Melilotus alba
+ggacttaatt ggattgagcc ttggtaggga aacttaccaa gtgaaaactt tcaaattcag
+agaaaccctg gaattaaaaa tgggcaatcc tgagccaaat ccttctttcc gaaaacaaaa
+aaataaaagt tcagaaaaaa aaaggatagg tgcagagact caatggaagt tgttctaaca
+acgagaataa agatagagtc ccattctaca tgtcaatacc gacatcaatg aaatttttag
+taagaggaaa atccgtcgac tttagaaatc gtgaggg
+>HM590319 Mirabilis albida
+gacttaattg gcctgagcct twgtatggaa acctactaag tgcaagtttt caaattcaga
+gaaaccctgg aattaataaa aatgggcaat cctgagccaa ctcttttttt cttttcattt
+ttcttttttt tttcatttca aatgaaaaaa aaaagaggtt cagaaaggaa gaaaaaggat
+aggtgcagag actcaaagga agctgttcta acaaatgggg ttggctgtgt tgttataaga
+attcttacat caaaattcca atccaaaaaa aagggtgaag catatacgta ctgaactata
+tcaaatgatt aataacmccc cgaatctcta tttttttctc atttttgtat atttatgaat
+atgaaatgaa aagatttata tgagaaaaaa aaaatgaaag aattcttgag attctgaatc
+gagtctaagt tgaaaaaaga atcaaatatt cattcataaa accattcact ccatagtctg
+atagattttt tgaagaactg attaatcgga cgagaatgaa gagagagtcc cgttctacat
+gtcaatactg acaacaatga aatttataat aagaagaaaa tccgtcgact tttaaaatcg
+ggagg
+>HM585957 Parthenocissus vitacea
+aacctactaa gtgaaaactt tcaaattcag ggaaaccctg gaataaaaaa tgggcaatcc
+tgagccaaat cctgttttcc gaaaacaacc aagggttcag aaaacgataa taaaaaggat
+aggtgcagag actcaatgga agctgttcta acaaaaacaa atggagttga ctatgttgcg
+ttattaaacg aatccttcca tcaaaactcc agaaccagaa aggatgaagg ataaacctat
+atacataggt actgaaatat tatatcaaat gattaatgat ggctcgaatc tgtatttttt
+gatatgaaaa atgaaagaat tgttgtaaat caattccaag ttgaagaaag aaaagaatcg
+aatattcatt gatcaaatca ttcactccat agtccgatag atcttttgaa gaactgatta
+atcggacgag aataaagata gagtcccatt ctacatgtca ataccgacaa caatgaaatt
+tatagtaaga ggaaaatccg tcgactttaa aaatcgtgag ggttcaagtc cctctatccc
+caaaaaagcc tacttgactc cctaactctt tatcctatcc tctcttttcg ttagcggttc
+caaattcgtt atgtttatca ttcactctac tctttcacaa atggatccgc gcagaaatta
+tttctcttat cacaagtctt gtggtatata tatgatacgc gtacaaacga ccatctttga
+gcaaggaatc cccatttgaa tgattcacag tacatatcat tattcgtact gaaacttaca
+aagttttttt gaagatccaa gaaattccag gtcctggata atactttgtt ttgtaatacc
+ctttcgtctt tttattttta attgacatag accaagtcat ctagtaaaat gaggatga
+>DQ531233 Penstemon cobaea
+aatgcatatg cataggaatt caatacacta tagtatagtg tctatagaaa gtatagtatc
+tatagaaata tagaaaagaa tagaattcta gaatttccaa aaactagtga atattataga
+acataacgat ttatatagcg atatataatt tcaaatttaa ttcgatagta aatcttaact
+atttttagta tagtcaaatt ttctttattt tttttttttt tattttgaat tcacattaca
+tttgaaattc tttttgttac acttgtatat ttctattgtc tatcctatac atttctactt
+ctatatttct ttcgaatgca aattatttaa ttagttataa ctaatgagac attactcggc
+tttcattggt aaagggggaa gttaagaaaa aaaaataatt gaccgttcaa gtatcaccaa
+ttgcatggta aaagtggcaa gaagagaaac atatatatgg ggtatatatc aatcaatatt
+gaattgccga tacagaaatg ataaaatcca atttgattgg atcaaatacg ggttttcaat
+aggtaaaaaa gaaaatattt tttcgagata gtcatcggta tctactaaat gctctaataa
+attcaagggt tccagtataa atgaaagaaa aaaggaatga tatcataatg agatcctaat
+ctcaaaacaa aaggaagggg gatatggcga aatcggtaga cgctacggac ttaattggat
+tgagccttgg tatggaaacc taccaagtga taactttcaa attcagagaa accccggaat
+gaataaaaat gggcaatcct gagccaaatc ctatgcttct caaaataaag gttcaaaaag
+cgaaaataag ggataggtgc agagactcaa tggaagctgt tctaacaaat ggagttgact
+gcattggtag atgaatcttt tcatcgaaac ttcagaaagg atgaaggata aacgtatcta
+ttgaatacta gaatcaaatt cttaatgatg ccccgaatct gtatctgtat ttttctatat
+gaaaaatgga agaattggtg tcaattgatt ccacattgaa aaaagaatcg aatattcatt
+catcaaatca ttcactccat agtctgatag ttcttttaaa gaactgatta atcggacaag
+aataaagata gagtcccatt ctacatgtca atatgtcaat ccggcaacaa tgagaagcag
+>EU581043 Physalis heterophylla
+tatggaaact tactaagtga tcactttcaa attcagagaa accctggaat taacaaaaat
+gggcaatcct gagccaaatc ctgttttctg aaaacaaaca aaggttcaga aaaaaaggat
+aggtgcagag actcaatgga agctattcta acaaatggag ttaaatgcgt tggtagagga
+atctttacat cgaaacttca gaaagaaaaa gaatgaagtg aaggataaac gtatatacat
+acgtattgaa tactatatca aatgattaat gacgacccga atccgtattt tttctataaa
+aaatagaaaa attggtgtga atcgattcta cattgaagaa agaatcgaat attcattgat
+caaatcattc actccatagt ctgatagatc ttttgaagaa ctgattaatc ggacgagaat
+aaagatagag tcccgttcta catgtcaatg ccggcaacaa tgaaatttat agtaagagga
+aaatccgtcg actttaaaaa tcgtgagggt tcaagtccct ctatccccaa aaagattatt
+tcactcccca actatttatc cgaccccctt tccttagcgg ttccaaattc cttatctttc
+tcattcactc tattatttat tattttagca atggatttta gcgtaaatgg ctttctctta
+tcacaagcct tgtgatatat atgatacaca tagaaatgaa catctttgag catgggagcc
+ctagttgaat gattcccgac caatacaata tcattaccca tactgaaact tacaaagtca
+tctttttgaa gatcgaagaa attccccggc tttaataaaa ttttttaatc gacttttgtc
+cttttaattg ataattgaca aagacctatt gacaaagacc aagttctata ataatataat
+taatgaatac caagcagagg tatgaaaatc ctcatgttac gggttcaaat ttggattggg
+gggttgttag accaggggac tgaaaatcct ctggtctacc aatccaatcc caatctggat
+tgggaatagc cgggatagct cagttggtag agcagaggac tgaaaatc
+>AY101964 Plantago patagonica
+ccccggaatt aataaaaatg ggcaatcctg agccaaatcc tgtcttctcc aaataaaagt
+tcagaaagcg agaaaaaggg ataggtgcag agactcgacg gaagctgttc taaaacaaat
+ggagttgact gcgttggtag ataaattttt tcatcgaaac ttcagaaagg atgaaggata
+aacgtatcta ttctattgaa tactaaaata tctaaaaaaa tgaatgacgg cccaagcctg
+tatctgtatt tttttagatg aaaaaatgga agaattggtg tgaattgatt ccacattcaa
+gaaagaatcg aacattcatt cataaaatcg tcccactcca tagtctgata gttctttttt
+aaaagaactt attaattgga cgagaataaa gatagagtcc cgttctacat gtcaacaccg
+acagcaatga aatttatagt aataggaaaa tccgtcgatt ttaaaaatcg tgagggttca
+agtccctcta tccccaaaag cctattctct gtctatccta ccctttaccc aaacttacaa
+ctttcaaagt ttaaagacct atgaaatgaa attacatgca ggacttgggg aaaactttgt
+aattccccct gtacctttaa ttgacataga cccagtcctc tcataaaatg aggatggaat
+ggtacattgg aaatggtcgg gatagctca
+>FJ422289 Drymocallis agrimonioides
+gacttaattg gattgagcct tggtatggaa acctaccaag tgataacttt caaattcaga
+gaaaccctgg aattaaaaat gggcaatcct gagccaaatc ctgttttatg aaaacaaaca
+aaggtttcag aaagcgagaa taaataaagg ataggtgcag agactcaatg gaagctgttc
+taacaaacgg agttggctgc attgtattcg tagtaaagga atccttccat cgaaacttcc
+gaaaggatga aagataaacc tatatacata tgtatactta ctgaaatact atcgccaaat
+aattcaaaat gattaatgac gactccgtcc gctaaatctt tttattttta agaatttttt
+aatcggataa gaataaagat agagtcccat tctacatgtc aatatcgaca acaatgaaat
+ttatagtaag aggaaaatcc gtcgacttta gaaatcgtga gggttcaagt ccctctatcc
+ccaaaaagac ccggttgact ccctaattat ttatcttctt attttgatta tttatcttct
+tattttgtta gtgactcaaa attggttata gttctcagtc attctcactc tactatattt
+cacatttcac aaacagatct gagcggaaat tcttttttct tatcacatca taagccttgt
+gtgtgatata tatgatacgt gttcaaatgc aaatgagtat ctttgaataa tatgttaaat
+ttaaataatt aacaatccat atcattattt gtactgtatt gaaacttaga aagtttttat
+tttgcagata caagaaattc gaccagggcc tggatattcc tttgtaatat cttttcattt
+ttttaattga catagacccc agtcctatat taaaataaaa tgaggatggt gcgtcatcaa
+tggtcgggat agctcagctg gtagagcaga ggactgaaaa tc
+>MK551067 Anemone patens
+cagagaaacc ccggaattaa aaatgggcaa tcctgagcca aatccttcaa aagagggttc
+agaaagcaag aataaaaaaa ggataggtgc agagactcaa tggaagctgt tctaacgaat
+agagttgact gcgttgatca aggattcctt ttaaactaca gaaaggctga acccgtatac
+atataataca aaaatatcaa agattaaaag attaatggtc atccaaatct ttatttttta
+tacaaaatgg aagaattctt gtgatgtgaa tcgattccaa gtttaagtaa gaatcgaata
+ttcactgatc aaataagtca ctctataatc tgatagttct tttaaagaac taattggacg
+agaataaaga tagagtccca ttatacatgt caatcccaat actgacaaaa atgaaattta
+tagtaagagg aaaatccgtc gacttttgaa atcgtgaggg ttcaagtccc tctatcccca
+tccccaataa aaagtttgct gtacccccta actatttagt taaagtc
+>DQ499392 Salsola kali
+cctctagtga aactttcaat tcagagaaac cctggaatta ctaaaaaagg gcaatcctga
+gccaactcct tttttcaaaa ggaaaaaaag aagaaaaaag gataggtgca gagactcaaa
+ggaagctgtt ctaacaaatg gggttgggtt gactgtgttg ttctaagaat tcttccgtcg
+aaactccaat ccaaaaaagg tgaagaatat actaaaataa ttaatgacac ctcgaatcta
+ttttatttat ttttttttct aatttttcga tatttattat ttctatatct cgctaaataa
+aaagaaattt agaataggaa atgaaaatat atattctatg aatagtaaaa aagggaagaa
+tttttctgaa ttgatttcca gttgaaaaaa gaatagaatc aaatattcat tcgatcaaat
+aattcactcc ataatctgat agatctttgg aagaacttat taatcggacg agaataaaga
+tagagtccca ttctacatgt caatactgac aagaatgaaa tttatagtaa gaggaaaatc
+cgtcgacttt aaaaatcgtg agggttcaag tc
+>OR571849 Taraxacum officinale
+acttactaag tgataacttt caaattcaga gaaaccctgg aattaataaa aatgggcaat
+cctgagccaa atcacgtttt ccgaaaacaa acaaaggttc agaaagcgaa aataaaaaag
+gataggtgca gagactcgat ggaagctgtt ctaacgaatg gagtttattg tcttacgtta
+atagaggaat ccttctatcg aaacttcaga aaagatgaag gataaacctg tagacataat
+gtagacataa tacagaagaa ttgttgtcaa tcgattccat attgaagaaa gaatcgaata
+ttcattgata aaaccattca ctccataatc tgatagatct tttgaagaac tgattaatcg
+gacgagaata aagatagagt cccgttctac atgtcaatac cggcaacaat gaaatttata
+gtaagaggaa aatccgtcga tttcaaaaat cgtgagggtt
+>KP208396 Tragopogon dubius
+attggattga gccttggtat ggaaacttac taagtgataa ctttcaaatt cagagaaacc
+ctggaattaa taaaaatggg caatcctgag ccaaatcacg ttttccgaaa acaaacaaag
+gttcagaaag cgaaaatcaa aaaggatagg tgcagagact
+>MN702072 Vitis riparia
+attcagggaa accctggaat aaaaaatggg caatcctgag ccaaatcctg ttttccgaaa
+acaaccaagg gttcagaaaa cgataataaa aaaaggatag gtgcagagac tcaatggaag
+ctgttctaac aaaaacaaat ggagttgact atgttgcgtt gttaaacgaa tccttccatc
+aaaactccag aaccagaaag gatgaaggat aaacctatat acataggtac tgaaatatta
+tatcaaatga ttaatgatgg ctcgaatctg tattttttga tatgaaaaat gaaagaattg
+ttgtaaatcg attccaagtt gaagaaagaa aagaatcgaa tattcattga tcaaatcatt
+cactccatag tccgatagat cttttgaaga actgattaat cggacgagaa taaagataga
+gtcccattct acatgtcaat accgacaaca atgaaattta tagtaagagg aaaatccgtc
+gactttaaaa atcgtgaggg ttcaagtccc tctatcccca aaaaagccta cttgactccc
+taactattta tcctatcctc tctttgcaga aatttttttt tctcttatca caagtcttgt
+ggtatatata tatatatgat acgcgtacaa acgaacatct ttgagcaagg aatctccatt
+tgaatgattc acagtacata tcattattcg tactgaaact tacaaagttt tttttttttg
+aagatccaag aaattccagg tcctggataa tactttgttt tgtaatacaa taccctttcg
+tctttttatt tttaattgac atagaccaag tcatctagta aaatgaggat gatgtatcg

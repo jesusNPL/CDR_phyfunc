@@ -1,0 +1,6 @@
+DNA, Masked_atpB.fasta = 1-1487
+DNA, Masked_matK.fasta = 1488-2539
+DNA, Masked_ndhF.fasta = 2540-4327
+DNA, Masked_rbcL.fasta = 4328-5022
+DNA, Masked_trnK.fasta = 5023-6191
+DNA, Masked_trnL.fasta = 6192-6806

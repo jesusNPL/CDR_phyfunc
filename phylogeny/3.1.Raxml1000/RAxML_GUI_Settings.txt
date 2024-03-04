@@ -1,0 +1,6 @@
+The analysis was run using raxmlGUI 2.0 (version 2.0.10) as follows:
+Analysis: ML + rapid bootstrap
+Binary: raxmlHPC-SSE3 version 8.2.12
+Results saved to: /Users/jpintole/Library/CloudStorage/Dropbox/Collaborations/CDR/CDR_phylogeny_v4/3.1.Raxml1000
+RAxML was called with these arguments:
+1.) -f a -x 541486 -p 541486 -N 1000 -m GTRGAMMA -k -O -o Ginkgo_biloba -n phruta.tre -s /Users/jpintole/Library/CloudStorage/Dropbox/Collaborations/CDR/CDR_phylogeny_v4/3.1.Raxml1000/phruta.phy -w /Users/jpintole/Library/CloudStorage/Dropbox/Collaborations/CDR/CDR_phylogeny_v4/3.1.Raxml1000 -q /Users/jpintole/Library/CloudStorage/Dropbox/Collaborations/CDR/CDR_phylogeny_v4/3.1.Raxml1000/phruta-partitions.txt

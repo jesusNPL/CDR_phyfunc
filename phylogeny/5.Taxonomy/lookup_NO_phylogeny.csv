@@ -1,0 +1,192 @@
+sciname_NO_Phylogeny,Matched,Fuzzy,scientificName,taxonRank,majorGroup,family_WFO,genus_WFO,specificEpithet,Old.status,sciname_IN_WFO,tipLabel,IN_Phylogeny
+Acer sp.,TRUE,FALSE,Acer,genus,A,Sapindaceae,Acer,sp.,,Acer sp.,Acer_sp.,0
+Achillea sp.,TRUE,FALSE,Achillea,genus,A,Asteraceae,Achillea,sp.,,Achillea sp.,Achillea_sp.,0
+Agrimonia sp.,TRUE,FALSE,Agrimonia,genus,A,Rosaceae,Agrimonia,sp.,,Agrimonia sp.,Agrimonia_sp.,0
+Agrostis sp.,TRUE,FALSE,Agrostis,genus,A,Poaceae,Agrostis,sp.,,Agrostis sp.,Agrostis_sp.,0
+Allium sp.,TRUE,FALSE,Allium,genus,A,Amaryllidaceae,Allium,sp.,,Allium sp.,Allium_sp.,0
+Amelanchier spicata,TRUE,FALSE,Amelanchier spicata,species,A,Rosaceae,Amelanchier,spicata,,Amelanchier spicata,Amelanchier_spicata,0
+Amelanchier sp.,TRUE,FALSE,Amelanchier,genus,A,Rosaceae,Amelanchier,sp.,,Amelanchier sp.,Amelanchier_sp.,0
+Anemone patens,TRUE,FALSE,Pulsatilla patens,species,A,Ranunculaceae,Pulsatilla,patens,Synonym,Pulsatilla patens,Pulsatilla_patens,0
+Antennaria sp.,TRUE,FALSE,Antennaria,genus,A,Asteraceae,Antennaria,sp.,,Antennaria sp.,Antennaria_sp.,0
+Gymnema sp.,TRUE,FALSE,Gymnema,genus,A,Apocynaceae,Gymnema,sp.,,Gymnema sp.,Gymnema_sp.,0
+Arabis divaricarpa,TRUE,FALSE,Boechera divaricarpa,species,A,Brassicaceae,Boechera,divaricarpa,Synonym,Boechera divaricarpa,Boechera_divaricarpa,0
+Arabis sp.,TRUE,FALSE,Arabis,genus,A,Brassicaceae,Arabis,sp.,,Arabis sp.,Arabis_sp.,0
+Aristida sp.,TRUE,FALSE,Aristida,genus,A,Poaceae,Aristida,sp.,,Aristida sp.,Aristida_sp.,0
+Artemisia sp.,TRUE,FALSE,Artemisia,genus,A,Asteraceae,Artemisia,sp.,,Artemisia sp.,Artemisia_sp.,0
+Asclepias sp.,TRUE,FALSE,Asclepias,genus,A,Apocynaceae,Asclepias,sp.,,Asclepias sp.,Asclepias_sp.,0
+Aster sp.,TRUE,FALSE,Aster,genus,A,Asteraceae,Aster,sp.,,Aster sp.,Aster_sp.,0
+Athyrium filix-femina,TRUE,FALSE,Athyrium filix-femina,species,P,Aspleniaceae,Athyrium,filix-femina,,Athyrium filix-femina,Athyrium_filix-femina,0
+Bidens sp.,TRUE,FALSE,Bidens,genus,A,Asteraceae,Bidens,sp.,,Bidens sp.,Bidens_sp.,0
+Botrychium sp.,TRUE,FALSE,Botrychium,genus,P,Ophioglossaceae,Botrychium,sp.,,Botrychium sp.,Botrychium_sp.,0
+Chondrosum hirsutum,TRUE,FALSE,Chondrosum hirsutum,species,A,Poaceae,Chondrosum,hirsutum,,Chondrosum hirsutum,Chondrosum_hirsutum,0
+Bouteloua sp.,TRUE,FALSE,Bouteloua,genus,A,Poaceae,Bouteloua,sp.,,Bouteloua sp.,Bouteloua_sp.,0
+Bromus sp.,TRUE,FALSE,Bromus,genus,A,Poaceae,Bromus,sp.,,Bromus sp.,Bromus_sp.,0
+Buchloe dactyloides,TRUE,FALSE,Buchloe dactyloides,species,,,Buchloe,dactyloides,,Buchloe dactyloides,Buchloe_dactyloides,0
+Calamagrostis inexpansa,TRUE,FALSE,Calamagrostis inexpansa,species,A,Poaceae,Calamagrostis,inexpansa,,Calamagrostis inexpansa,Calamagrostis_inexpansa,0
+Calamagrostis sp.,TRUE,FALSE,Calamagrostis,genus,A,Poaceae,Calamagrostis,sp.,,Calamagrostis sp.,Calamagrostis_sp.,0
+Calamovilfa longifolia,TRUE,FALSE,Calamovilfa longifolia,species,A,Poaceae,Calamovilfa,longifolia,,Calamovilfa longifolia,Calamovilfa_longifolia,0
+Sporobolus sp.,TRUE,FALSE,Sporobolus,genus,A,Poaceae,Sporobolus,sp.,,Sporobolus sp.,Sporobolus_sp.,0
+Campanula aparinoides,TRUE,FALSE,Campanula aparinoides,species,A,Campanulaceae,Campanula,aparinoides,,Campanula aparinoides,Campanula_aparinoides,0
+Campanula sp.,TRUE,FALSE,Campanula,genus,A,Campanulaceae,Campanula,sp.,,Campanula sp.,Campanula_sp.,0
+Combretum sp.,TRUE,FALSE,Combretum,genus,A,Combretaceae,Combretum,sp.,,Combretum sp.,Combretum_sp.,0
+Carex sp.,TRUE,FALSE,Carex,genus,A,Cyperaceae,Carex,sp.,,Carex sp.,Carex_sp.,0
+Chenopodium hybridum,TRUE,FALSE,Chenopodium hybridum,species,A,Amaranthaceae,Chenopodium,hybridum,,Chenopodium hybridum,Chenopodium_hybridum,0
+Chenopodium sp.,TRUE,FALSE,Chenopodium,genus,A,Amaranthaceae,Chenopodium,sp.,,Chenopodium sp.,Chenopodium_sp.,0
+Cirsium sp.,TRUE,FALSE,Cirsium,genus,A,Asteraceae,Cirsium,sp.,,Cirsium sp.,Cirsium_sp.,0
+Colladonia sp.,TRUE,FALSE,Heptaptera,genus,A,Apiaceae,Heptaptera,sp.,Synonym,Heptaptera sp.,Heptaptera_sp.,0
+Cornus sp.,TRUE,FALSE,Cornus,genus,A,Cornaceae,Cornus,sp.,,Cornus sp.,Cornus_sp.,0
+Cycloloma atriplicifolium,TRUE,FALSE,Cycloloma atriplicifolium,species,A,Amaranthaceae,Cycloloma,atriplicifolium,,Cycloloma atriplicifolium,Cycloloma_atriplicifolium,0
+Cyperus sp.,TRUE,FALSE,Cyperus,genus,A,Cyperaceae,Cyperus,sp.,,Cyperus sp.,Cyperus_sp.,0
+Desmodium glutinosum,TRUE,FALSE,Hylodesmum glutinosum,species,A,Fabaceae,Hylodesmum,glutinosum,Synonym,Hylodesmum glutinosum,Hylodesmum_glutinosum,0
+Digitaria sp.,TRUE,FALSE,Digitaria,genus,A,Poaceae,Digitaria,sp.,,Digitaria sp.,Digitaria_sp.,0
+Dryopteris cristata,TRUE,FALSE,Dryopteris cristata,species,P,Dryopteridaceae,Dryopteris,cristata,,Dryopteris cristata,Dryopteris_cristata,0
+Dryopteris carthusiana,TRUE,FALSE,Dryopteris carthusiana,species,P,Dryopteridaceae,Dryopteris,carthusiana,,Dryopteris carthusiana,Dryopteris_carthusiana,0
+Eleocharis sp.,TRUE,FALSE,Eleocharis,genus,A,Cyperaceae,Eleocharis,sp.,,Eleocharis sp.,Eleocharis_sp.,0
+Elymus trachycaulus,TRUE,FALSE,Elymus trachycaulus,species,A,Poaceae,Elymus,trachycaulus,,Elymus trachycaulus,Elymus_trachycaulus,0
+Epilobium sp.,TRUE,FALSE,Epilobium,genus,A,Onagraceae,Epilobium,sp.,,Epilobium sp.,Epilobium_sp.,0
+Equisetum arvense,TRUE,FALSE,Equisetum arvense,species,P,Equisetaceae,Equisetum,arvense,,Equisetum arvense,Equisetum_arvense,0
+Equisetum hyemale,TRUE,FALSE,Equisetum hyemale,species,P,Equisetaceae,Equisetum,hyemale,,Equisetum hyemale,Equisetum_hyemale,0
+Equisetum laevigatum,TRUE,FALSE,Equisetum laevigatum,species,P,Equisetaceae,Equisetum,laevigatum,,Equisetum laevigatum,Equisetum_laevigatum,0
+Equisetum sp.,TRUE,FALSE,Equisetum,genus,P,Equisetaceae,Equisetum,sp.,,Equisetum sp.,Equisetum_sp.,0
+Erechtites hieracifolia,TRUE,FALSE,Erechtites hieracifolia,species,A,Asteraceae,Erechtites,hieracifolia,,Erechtites hieracifolia,Erechtites_hieracifolia,0
+Erigeron sp.,TRUE,FALSE,Erigeron,genus,A,Asteraceae,Erigeron,sp.,,Erigeron sp.,Erigeron_sp.,0
+Eupatorium maculatum,TRUE,FALSE,Eutrochium maculatum,species,A,Asteraceae,Eutrochium,maculatum,Synonym,Eutrochium maculatum,Eutrochium_maculatum,0
+Ageratina liebmannii,TRUE,FALSE,Ageratina liebmannii,species,A,Asteraceae,Ageratina,liebmannii,,Ageratina liebmannii,Ageratina_liebmannii,0
+Euphorbia sp.,TRUE,FALSE,Euphorbia,genus,A,Euphorbiaceae,Euphorbia,sp.,,Euphorbia sp.,Euphorbia_sp.,0
+Festuca sp.,TRUE,FALSE,Festuca,genus,A,Poaceae,Festuca,sp.,,Festuca sp.,Festuca_sp.,0
+Fragaria sp.,TRUE,FALSE,Fragaria,genus,A,Rosaceae,Fragaria,sp.,,Fragaria sp.,Fragaria_sp.,0
+Galium sp.,TRUE,FALSE,Galium,genus,A,Rubiaceae,Galium,sp.,,Galium sp.,Galium_sp.,0
+Glyceria sp.,TRUE,FALSE,Glyceria,genus,A,Poaceae,Glyceria,sp.,,Glyceria sp.,Glyceria_sp.,0
+Gnaphalium purpureum,TRUE,FALSE,Gamochaeta purpurea,species,A,Asteraceae,Gamochaeta,purpurea,Synonym,Gamochaeta purpurea,Gamochaeta_purpurea,0
+Gnaphalium sp.,TRUE,FALSE,Gnaphalium,genus,A,Asteraceae,Gnaphalium,sp.,,Gnaphalium sp.,Gnaphalium_sp.,0
+Hieracium crassescens,TRUE,FALSE,Hieracium crassescens,species,A,Asteraceae,Hieracium,crassescens,,Hieracium crassescens,Hieracium_crassescens,0
+Gymnocarpium dryopteris,TRUE,FALSE,Gymnocarpium dryopteris,species,P,Cystopteridaceae,Gymnocarpium,dryopteris,,Gymnocarpium dryopteris,Gymnocarpium_dryopteris,0
+Helianthemum bicknellii,TRUE,FALSE,Crocanthemum bicknellii,species,A,Cistaceae,Crocanthemum,bicknellii,Synonym,Crocanthemum bicknellii,Crocanthemum_bicknellii,0
+Helianthus laetiflorus,TRUE,FALSE,Helianthus laetiflorus,species,A,Asteraceae,Helianthus,laetiflorus,,Helianthus laetiflorus,Helianthus_laetiflorus,0
+Helianthus sp.,TRUE,FALSE,Helianthus,genus,A,Asteraceae,Helianthus,sp.,,Helianthus sp.,Helianthus_sp.,0
+Hieracium longipilum,TRUE,FALSE,Pilosella longipila,species,A,Asteraceae,Pilosella,longipila,Synonym,Pilosella longipila,Pilosella_longipila,0
+Hieracium sp.,TRUE,FALSE,Hieracium,genus,A,Asteraceae,Hieracium,sp.,,Hieracium sp.,Hieracium_sp.,0
+Hierochloe odorata,TRUE,FALSE,Hierochloe odorata,species,A,Poaceae,Hierochloe,odorata,,Hierochloe odorata,Hierochloe_odorata,0
+Ilex sp.,TRUE,FALSE,Ilex,genus,A,Aquifoliaceae,Ilex,sp.,,Ilex sp.,Ilex_sp.,0
+Juncus sp.,TRUE,FALSE,Juncus,genus,A,Juncaceae,Juncus,sp.,,Juncus sp.,Juncus_sp.,0
+Juniperus sp.,TRUE,FALSE,Juniperus,genus,G,Cupressaceae,Juniperus,sp.,,Juniperus sp.,Juniperus_sp.,0
+Koeleria micrathera,TRUE,FALSE,Koeleria micrathera,species,A,Poaceae,Koeleria,micrathera,,Koeleria micrathera,Koeleria_micrathera,0
+Lactuca sp.,TRUE,FALSE,Lactuca,genus,A,Asteraceae,Lactuca,sp.,,Lactuca sp.,Lactuca_sp.,0
+Leavenworthia sp.,TRUE,FALSE,Leavenworthia,genus,A,Brassicaceae,Leavenworthia,sp.,,Leavenworthia sp.,Leavenworthia_sp.,0
+Lemna sp.,TRUE,FALSE,Lemna,genus,A,Araceae,Lemna,sp.,,Lemna sp.,Lemna_sp.,0
+Lepidium sp.,TRUE,FALSE,Lepidium,genus,A,Brassicaceae,Lepidium,sp.,,Lepidium sp.,Lepidium_sp.,0
+Lichtensteinia sp.,TRUE,FALSE,Lichtensteinia,genus,A,Apiaceae,Lichtensteinia,sp.,,Lichtensteinia sp.,Lichtensteinia_sp.,0
+Lithospermum sp.,TRUE,FALSE,Lithospermum,genus,A,Boraginaceae,Lithospermum,sp.,,Lithospermum sp.,Lithospermum_sp.,0
+Lupinus sp.,TRUE,FALSE,Lupinus,genus,A,Fabaceae,Lupinus,sp.,,Lupinus sp.,Lupinus_sp.,0
+Lycopodium complanatum,TRUE,FALSE,Lycopodium complanatum,species,P,Lycopodiaceae,Lycopodium,complanatum,,Lycopodium complanatum,Lycopodium_complanatum,0
+Lycopus sp.,TRUE,FALSE,Lycopus,genus,A,Lamiaceae,Lycopus,sp.,,Lycopus sp.,Lycopus_sp.,0
+Medicago sp.,TRUE,FALSE,Medicago,genus,A,Fabaceae,Medicago,sp.,,Medicago sp.,Medicago_sp.,0
+Melilotus sp.,TRUE,FALSE,Melilotus,genus,A,Fabaceae,Melilotus,sp.,,Melilotus sp.,Melilotus_sp.,0
+Mirabilis hirsuta,TRUE,FALSE,Mirabilis hirsuta,species,A,Nyctaginaceae,Mirabilis,hirsuta,,Mirabilis hirsuta,Mirabilis_hirsuta,0
+Miscanthus giganteus,TRUE,FALSE,Miscanthus longiberbis,species,A,Poaceae,Miscanthus,longiberbis,Synonym,Miscanthus longiberbis,Miscanthus_longiberbis,0
+Carex lativena,TRUE,FALSE,Carex lativena,species,A,Cyperaceae,Carex,lativena,,Carex lativena,Carex_lativena,0
+Oenothera sp.,TRUE,FALSE,Oenothera,genus,A,Onagraceae,Oenothera,sp.,,Oenothera sp.,Oenothera_sp.,0
+Onoclea sensibilis,TRUE,FALSE,Onoclea sensibilis,species,P,Onocleaceae,Onoclea,sensibilis,,Onoclea sensibilis,Onoclea_sensibilis,0
+Osmundastrum cinnamomeum,TRUE,FALSE,Osmundastrum cinnamomeum,species,P,Osmundaceae,Osmundastrum,cinnamomeum,,Osmundastrum cinnamomeum,Osmundastrum_cinnamomeum,0
+Osmunda claytoniana,TRUE,FALSE,Osmundastrum claytonianum,species,P,Osmundaceae,Osmundastrum,claytonianum,Synonym,Osmundastrum claytonianum,Osmundastrum_claytonianum,0
+Osmunda regalis,TRUE,FALSE,Osmunda regalis,species,P,Osmundaceae,Osmunda,regalis,,Osmunda regalis,Osmunda_regalis,0
+Oxalis sp.,TRUE,FALSE,Oxalis,genus,A,Oxalidaceae,Oxalis,sp.,,Oxalis sp.,Oxalis_sp.,0
+Panicum acuminatum,TRUE,FALSE,Panicum acuminatum,species,A,Poaceae,Panicum,acuminatum,,Panicum acuminatum,Panicum_acuminatum,0
+Panicum leibergii,TRUE,FALSE,Panicum leibergii,species,A,Poaceae,Panicum,leibergii,,Panicum leibergii,Panicum_leibergii,0
+Panicum oligosanthes,TRUE,FALSE,Panicum oligosanthes,species,A,Poaceae,Panicum,oligosanthes,,Panicum oligosanthes,Panicum_oligosanthes,0
+Panicum perlongum,TRUE,FALSE,Dichanthelium linearifolium,species,A,Poaceae,Dichanthelium,linearifolium,Synonym,Dichanthelium linearifolium,Dichanthelium_linearifolium,0
+Panicum sp.,TRUE,FALSE,Panicum,genus,A,Poaceae,Panicum,sp.,,Panicum sp.,Panicum_sp.,0
+Parthenocissus inserta,TRUE,FALSE,Parthenocissus quinquefolia,species,A,Vitaceae,Parthenocissus,quinquefolia,Synonym,Parthenocissus quinquefolia,Parthenocissus_quinquefolia,0
+Parthenocissus sp.,TRUE,FALSE,Parthenocissus,genus,A,Vitaceae,Parthenocissus,sp.,,Parthenocissus sp.,Parthenocissus_sp.,0
+Pedicularis sp.,TRUE,FALSE,Pedicularis,genus,A,Orobanchaceae,Pedicularis,sp.,,Pedicularis sp.,Pedicularis_sp.,0
+Penstemon grandiflorus,TRUE,FALSE,Penstemon grandiflorus,species,A,Plantaginaceae,Penstemon,grandiflorus,,Penstemon grandiflorus,Penstemon_grandiflorus,0
+Penstemon sp.,TRUE,FALSE,Penstemon,genus,A,Plantaginaceae,Penstemon,sp.,,Penstemon sp.,Penstemon_sp.,0
+Petalostemon candidus,TRUE,FALSE,Dalea candida,species,A,Fabaceae,Dalea,candida,Synonym,Dalea candida,Dalea_candida,0
+Petalostemon purpureus,TRUE,FALSE,Dalea purpurea,species,A,Fabaceae,Dalea,purpurea,Synonym,Dalea purpurea,Dalea_purpurea,0
+Petalostemum sp.,TRUE,FALSE,Petalostemum,genus,,,Petalostemum,sp.,,Petalostemum sp.,Petalostemum_sp.,0
+Phlox sp.,TRUE,FALSE,Phlox,genus,A,Polemoniaceae,Phlox,sp.,,Phlox sp.,Phlox_sp.,0
+Physalis sp.,TRUE,FALSE,Physalis,genus,A,Solanaceae,Physalis,sp.,,Physalis sp.,Physalis_sp.,0
+Picea sp.,TRUE,FALSE,Picea,genus,G,Pinaceae,Picea,sp.,,Picea sp.,Picea_sp.,0
+Pinus sp.,TRUE,FALSE,Pinus,genus,G,Pinaceae,Pinus,sp.,,Pinus sp.,Pinus_sp.,0
+Plantago sp.,TRUE,FALSE,Plantago,genus,A,Plantaginaceae,Plantago,sp.,,Plantago sp.,Plantago_sp.,0
+Poa sp.,TRUE,FALSE,Poa,genus,A,Poaceae,Poa,sp.,,Poa sp.,Poa_sp.,0
+Polygala sp.,TRUE,FALSE,Polygala,genus,A,Polygalaceae,Polygala,sp.,,Polygala sp.,Polygala_sp.,0
+Polygonatum sp.,TRUE,FALSE,Polygonatum,genus,A,Asparagaceae,Polygonatum,sp.,,Polygonatum sp.,Polygonatum_sp.,0
+Fallopia cilinodis,TRUE,FALSE,Fallopia cilinodis,species,A,Polygonaceae,Fallopia,cilinodis,,Fallopia cilinodis,Fallopia_cilinodis,0
+Polygonum sp.,TRUE,FALSE,Polygonum,genus,A,Polygonaceae,Polygonum,sp.,,Polygonum sp.,Polygonum_sp.,0
+Potentilla arguta,TRUE,FALSE,Potentilla arguta,species,A,Rosaceae,Potentilla,arguta,,Potentilla arguta,Potentilla_arguta,0
+Potentilla sp.,TRUE,FALSE,Potentilla,genus,A,Rosaceae,Potentilla,sp.,,Potentilla sp.,Potentilla_sp.,0
+Prunus sp.,TRUE,FALSE,Prunus,genus,A,Rosaceae,Prunus,sp.,,Prunus sp.,Prunus_sp.,0
+Pteridium aquilinum,TRUE,FALSE,Pteridium aquilinum,species,P,Dennstaedtiaceae,Pteridium,aquilinum,,Pteridium aquilinum,Pteridium_aquilinum,0
+Pyrola sp.,TRUE,FALSE,Pyrola,genus,A,Ericaceae,Pyrola,sp.,,Pyrola sp.,Pyrola_sp.,0
+Quercus sp.,TRUE,FALSE,Quercus,genus,A,Fagaceae,Quercus,sp.,,Quercus sp.,Quercus_sp.,0
+Ranunculus rhomboideus,TRUE,FALSE,Ranunculus rhomboideus,species,A,Ranunculaceae,Ranunculus,rhomboideus,,Ranunculus rhomboideus,Ranunculus_rhomboideus,0
+Rhamnus sp.,TRUE,FALSE,Rhamnus,genus,A,Rhamnaceae,Rhamnus,sp.,,Rhamnus sp.,Rhamnus_sp.,0
+Rhus sp.,TRUE,FALSE,Rhus,genus,A,Anacardiaceae,Rhus,sp.,,Rhus sp.,Rhus_sp.,0
+Roosia sp.,TRUE,FALSE,Roosia,genus,A,Aizoaceae,Roosia,sp.,,Roosia sp.,Roosia_sp.,0
+Rubus sp.,TRUE,FALSE,Rubus,genus,A,Rosaceae,Rubus,sp.,,Rubus sp.,Rubus_sp.,0
+Echinacea serotina,TRUE,FALSE,Echinacea purpurea,species,A,Asteraceae,Echinacea,purpurea,Synonym,Echinacea purpurea,Echinacea_purpurea,0
+Rumex mexicanus,TRUE,FALSE,Rumex mexicanus,species,A,Polygonaceae,Rumex,mexicanus,,Rumex mexicanus,Rumex_mexicanus,0
+Rumex sp.,TRUE,FALSE,Rumex,genus,A,Polygonaceae,Rumex,sp.,,Rumex sp.,Rumex_sp.,0
+Salix sp.,TRUE,FALSE,Salix,genus,A,Salicaceae,Salix,sp.,,Salix sp.,Salix_sp.,0
+Saxifraga pensylvanica,TRUE,FALSE,Micranthes pensylvanica,species,A,Saxifragaceae,Micranthes,pensylvanica,Synonym,Micranthes pensylvanica,Micranthes_pensylvanica,0
+Senecio aureus,TRUE,FALSE,Senecio aureus,species,A,Asteraceae,Senecio,aureus,,Senecio aureus,Senecio_aureus,0
+Senecio sp.,TRUE,FALSE,Senecio,genus,A,Asteraceae,Senecio,sp.,,Senecio sp.,Senecio_sp.,0
+Pennisetum glaucum,TRUE,FALSE,Pennisetum glaucum,species,A,Poaceae,Pennisetum,glaucum,,Pennisetum glaucum,Pennisetum_glaucum,0
+Setaria sp.,TRUE,FALSE,Setaria,genus,A,Poaceae,Setaria,sp.,,Setaria sp.,Setaria_sp.,0
+Silene sp.,TRUE,FALSE,Silene,genus,A,Caryophyllaceae,Silene,sp.,,Silene sp.,Silene_sp.,0
+Solidago sp.,TRUE,FALSE,Solidago,genus,A,Asteraceae,Solidago,sp.,,Solidago sp.,Solidago_sp.,0
+Spartina pectinata,TRUE,FALSE,Spartina pectinata,species,A,Poaceae,Spartina,pectinata,,Spartina pectinata,Spartina_pectinata,0
+Sphagnum sp.,TRUE,FALSE,Sphagnum,genus,B,Sphagnaceae,Sphagnum,sp.,,Sphagnum sp.,Sphagnum_sp.,0
+Stachys sp.,TRUE,FALSE,Stachys,genus,A,Lamiaceae,Stachys,sp.,,Stachys sp.,Stachys_sp.,0
+Taraxacum sp.,TRUE,FALSE,Taraxacum,genus,A,Asteraceae,Taraxacum,sp.,,Taraxacum sp.,Taraxacum_sp.,0
+Taraxacum campylodes,TRUE,FALSE,Taraxacum campylodes,species,A,Asteraceae,Taraxacum,campylodes,,Taraxacum campylodes,Taraxacum_campylodes,0
+Thelypteris confluens,TRUE,FALSE,Thelypteris confluens,species,P,Thelypteridaceae,Thelypteris,confluens,,Thelypteris confluens,Thelypteris_confluens,0
+Tradescantia sp.,TRUE,FALSE,Tradescantia,genus,A,Commelinaceae,Tradescantia,sp.,,Tradescantia sp.,Tradescantia_sp.,0
+Tragopogon duarius,TRUE,FALSE,Tragopogon duarius,species,A,Asteraceae,Tragopogon,duarius,,Tragopogon duarius,Tragopogon_duarius,0
+Triadenum fraseri,TRUE,FALSE,Hypericum fraseri,species,A,Hypericaceae,Hypericum,fraseri,Synonym,Hypericum fraseri,Hypericum_fraseri,0
+Trientalis borealis,TRUE,FALSE,Lysimachia borealis,species,A,Primulaceae,Lysimachia,borealis,Synonym,Lysimachia borealis,Lysimachia_borealis,0
+Trifolium sp.,TRUE,FALSE,Trifolium,genus,A,Fabaceae,Trifolium,sp.,,Trifolium sp.,Trifolium_sp.,0
+Typha sp.,TRUE,FALSE,Typha,genus,A,Typhaceae,Typha,sp.,,Typha sp.,Typha_sp.,0
+Ulmus sp.,TRUE,FALSE,Ulmus,genus,A,Ulmaceae,Ulmus,sp.,,Ulmus sp.,Ulmus_sp.,0
+Utricularia sp.,TRUE,FALSE,Utricularia,genus,A,Lentibulariaceae,Utricularia,sp.,,Utricularia sp.,Utricularia_sp.,0
+Vaccinium sp.,TRUE,FALSE,Vaccinium,genus,A,Ericaceae,Vaccinium,sp.,,Vaccinium sp.,Vaccinium_sp.,0
+Viola sp.,TRUE,FALSE,Viola,genus,A,Violaceae,Viola,sp.,,Viola sp.,Viola_sp.,0
+Dryopteris leedsii,TRUE,FALSE,Dryopteris leedsii,species,P,Dryopteridaceae,Dryopteris,leedsii,,Dryopteris leedsii,Dryopteris_leedsii,0
+Xyris torta,TRUE,FALSE,Xyris torta,species,A,Xyridaceae,Xyris,torta,,Xyris torta,Xyris_torta,0
+Tragopogon dubius,TRUE,FALSE,Tragopogon dubius,species,A,Asteraceae,Tragopogon,dubius,,Tragopogon dubius,Tragopogon_dubius,0
+Crocanthemum bicknellii,TRUE,FALSE,Crocanthemum bicknellii,species,A,Cistaceae,Crocanthemum,bicknellii,,Crocanthemum bicknellii,Crocanthemum_bicknellii,0
+Dichanthelium linearifolium,TRUE,FALSE,Dichanthelium linearifolium,species,A,Poaceae,Dichanthelium,linearifolium,,Dichanthelium linearifolium,Dichanthelium_linearifolium,0
+Pilosella longipila,TRUE,FALSE,Pilosella longipila,species,A,Asteraceae,Pilosella,longipila,,Pilosella longipila,Pilosella_longipila,0
+Dichanthelium praecocius,TRUE,FALSE,Dichanthelium praecocius,species,A,Poaceae,Dichanthelium,praecocius,,Dichanthelium praecocius,Dichanthelium_praecocius,0
+Artemisia campestris,TRUE,FALSE,Artemisia campestris,species,A,Asteraceae,Artemisia,campestris,,Artemisia campestris,Artemisia_campestris,0
+Euphorbia maculata,TRUE,FALSE,Euphorbia maculata,species,A,Euphorbiaceae,Euphorbia,maculata,,Euphorbia maculata,Euphorbia_maculata,0
+Andropogon gerardii,TRUE,FALSE,Andropogon gerardii,species,A,Poaceae,Andropogon,gerardii,,Andropogon gerardii,Andropogon_gerardii,0
+Plantago patagonica,TRUE,FALSE,Plantago patagonica,species,A,Plantaginaceae,Plantago,patagonica,,Plantago patagonica,Plantago_patagonica,0
+Taraxacum officinale,TRUE,FALSE,Taraxacum officinale,species,A,Asteraceae,Taraxacum,officinale,,Taraxacum officinale,Taraxacum_officinale,0
+Erigeron philadelphicus,TRUE,FALSE,Erigeron philadelphicus,species,A,Asteraceae,Erigeron,philadelphicus,,Erigeron philadelphicus,Erigeron_philadelphicus,0
+Melilotus albus,TRUE,FALSE,Melilotus albus,species,A,Fabaceae,Melilotus,albus,,Melilotus albus,Melilotus_albus,0
+Amphicarpa bracteata,TRUE,FALSE,Amphicarpa bracteata,species,A,Fabaceae,Amphicarpa,bracteata,,Amphicarpa bracteata,Amphicarpa_bracteata,0
+Hesperostipa spartea,TRUE,FALSE,Stipa spartea,species,A,Poaceae,Stipa,spartea,Synonym,Stipa spartea,Stipa_spartea,0
+Physalis heterophylla,TRUE,FALSE,Physalis heterophylla,species,A,Solanaceae,Physalis,heterophylla,,Physalis heterophylla,Physalis_heterophylla,0
+Koeleria pyramidata,TRUE,FALSE,Koeleria pyramidata,species,A,Poaceae,Koeleria,pyramidata,,Koeleria pyramidata,Koeleria_pyramidata,0
+Bouteloua hirsuta,TRUE,FALSE,Bouteloua hirsuta,species,A,Poaceae,Bouteloua,hirsuta,,Bouteloua hirsuta,Bouteloua_hirsuta,0
+Hackelia virginiana,TRUE,FALSE,Hackelia virginiana,species,A,Boraginaceae,Hackelia,virginiana,,Hackelia virginiana,Hackelia_virginiana,0
+Salsola kali,TRUE,FALSE,Salsola kali,species,A,Amaranthaceae,Salsola,kali,,Salsola kali,Salsola_kali,0
+Dalea candida,TRUE,FALSE,Dalea candida,species,A,Fabaceae,Dalea,candida,,Dalea candida,Dalea_candida,0
+Vicia setifolia,TRUE,FALSE,Vicia setifolia,species,A,Fabaceae,Vicia,setifolia,,Vicia setifolia,Vicia_setifolia,0
+Pulsatilla patens,TRUE,FALSE,Pulsatilla patens,species,A,Ranunculaceae,Pulsatilla,patens,,Pulsatilla patens,Pulsatilla_patens,0
+Hesperostipa comata,TRUE,FALSE,Stipa comata,species,A,Poaceae,Stipa,comata,Synonym,Stipa comata,Stipa_comata,0
+Parthenocissus vitacea,TRUE,FALSE,Parthenocissus vitacea,species,A,Vitaceae,Parthenocissus,vitacea,,Parthenocissus vitacea,Parthenocissus_vitacea,0
+Cirsium altissimum,TRUE,FALSE,Cirsium altissimum,species,A,Asteraceae,Cirsium,altissimum,,Cirsium altissimum,Cirsium_altissimum,0
+Vitis riparia,TRUE,FALSE,Vitis riparia,species,A,Vitaceae,Vitis,riparia,,Vitis riparia,Vitis_riparia,0
+Penstemon cobaea,TRUE,FALSE,Penstemon cobaea,species,A,Plantaginaceae,Penstemon,cobaea,,Penstemon cobaea,Penstemon_cobaea,0
+Amelanchier interior,TRUE,FALSE,Amelanchier interior,species,A,Rosaceae,Amelanchier,interior,,Amelanchier interior,Amelanchier_interior,0
+Amelanchier laevis,TRUE,FALSE,Amelanchier laevis,species,A,Rosaceae,Amelanchier,laevis,,Amelanchier laevis,Amelanchier_laevis,0
+Demia testudo,TRUE,TRUE,Deamia testudo,species,A,Cactaceae,Deamia,testudo,,Deamia testudo,Deamia_testudo,0
+Galium aparine,TRUE,FALSE,Galium aparine,species,A,Rubiaceae,Galium,aparine,,Galium aparine,Galium_aparine,0
+Galium asperellum,TRUE,TRUE,Galium asprellum,species,A,Rubiaceae,Galium,asprellum,,Galium asprellum,Galium_asprellum,0
+Galium boreale,TRUE,FALSE,Galium boreale,species,A,Rubiaceae,Galium,boreale,,Galium boreale,Galium_boreale,0
+Galium concinnum,TRUE,FALSE,Galium concinnum,species,A,Rubiaceae,Galium,concinnum,,Galium concinnum,Galium_concinnum,0
+Galium obtusum,TRUE,FALSE,Galium obtusum,species,A,Rubiaceae,Galium,obtusum,,Galium obtusum,Galium_obtusum,0
+Galium trifolium,TRUE,TRUE,Galium bifolium,species,A,Rubiaceae,Galium,bifolium,,Galium bifolium,Galium_bifolium,0
